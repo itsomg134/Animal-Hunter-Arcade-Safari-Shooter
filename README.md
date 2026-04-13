@@ -2,8 +2,7 @@
 
 **Animal Hunter** is a fast-paced, reflex-based browser game where you step into the shoes of a skilled safari marksman. Your mission: track and shoot wild animals before they escape across the savannah. Built with pure HTML5 Canvas, CSS, and vanilla JavaScript — no dependencies, just instant action.
 
-![Game Preview](https://via.placeholder.com/800x400?text=Animal+Hunter+Gameplay+Screenshot)
-> * Click or tap on animals to score points. Reload wisely and beat your high score!*
+<img width="1886" height="961" alt="image" src="https://github.com/user-attachments/assets/b8ad8401-5a1e-4272-9108-e020e0580f17" />
 
 ##  Live Demo
 
