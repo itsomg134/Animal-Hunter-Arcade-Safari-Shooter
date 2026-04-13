@@ -122,13 +122,16 @@ TL;DR — You can use, modify, and distribute this code freely as long as you in
 
 ---
 
-##  Screenshots
+##  Contact
 
-*(Add your actual screenshots here)*
+Om Gedam
 
-![Gameplay Action](https://via.placeholder.com/600x300?text=Shooting+Wolf+with+Crosshair)  
-*Locked on target – a Wolf worth 20 points!*
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
-![Reload Mechanism](https://via.placeholder.com/600x300?text=Reload+Bar+and+Ammo+Counter)  
-*Visual reload bar and ammo indicator.*
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
 
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
